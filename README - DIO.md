@@ -2,7 +2,7 @@
 | Projeto | SISTEMA DE CONTROLE DE PONTO  |
 | -------------  |--------------------------------|
 | Nome        | **Construindo um Sistema de Controle de Ponto e Acesso com Spring Boot**  
-| Tecnologias | Java, Intellij, Spring, MySQL          
+| Tecnologias | Java, Intellij, Spring, MySQL, Rest API          
 | URL         | https://github.com/Thamyresmya/Sistema-Controle-Ponto
 
 
