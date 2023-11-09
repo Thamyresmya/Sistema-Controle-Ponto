@@ -57,23 +57,23 @@ Neste repositório você tem acesso a todo o material desenvolvido.
 <br>
 
 ## 📸 Telas
-**Cadastro de Jornada de Trabalho**
-<img width="70%" height="300" src="./geral/Cadastrar.png"></img>
+**Cadastro de Jornada de Trabalho** <br>
+<img width="100%" height="300" src="./geral/Cadastrar.png"></img>
 
-**Alteração de Jornada de Trabalho**
-<img width="70%" height="300" src="./geral/Alterar.png"></img>
+**Alteração de Jornada de Trabalho**<br>
+<img width="100%" height="300" src="./geral/Alterar.png"></img>
 
-**Lista por ID Jornada de Trabalho**
-<img width="70%" height="300" src="./geral/ListarPorID.png"></img>
+**Lista por ID Jornada de Trabalho**<br>
+<img width="100%" height="300" src="./geral/ListarPorID.png"></img>
 
-**Lista todas Jornada de Trabalho**
-<img width="70%" height="300" src="./geral/ListarTudo.png"></img>
+**Lista todas Jornada de Trabalho**<br>
+<img width="100%" height="300" src="./geral/ListarTudo.png"></img>
 
-**Deletar Jornada de Trabalho**
-<img width="70%" height="300" src="./geral/Deletar.png"></img>
+**Deletar Jornada de Trabalho**<br>
+<img width="100%" height="300" src="./geral/Deletar.png"></img>
 
-**Banco de Dados**
-<img width="70%" height="300" src="./geral/BD.png"></img>
+**Banco de Dados**<br>
+<img width="100%" height="300" src="./geral/BD.png"></img>
 
 **CRUD**
 <img width="100%" height="300" src="./geral/Sistema_Controle_Ponto.gif"></img>
