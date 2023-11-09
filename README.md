@@ -6,8 +6,21 @@
 | URL         | https://github.com/Thamyresmya/Sistema-Controle-Ponto
 
 
-![](geral/Capa.jpg)
 
+# Índice 
+- [Índice](#índice)
+- [PROJETO SISTEMA DE CONTROLE DE PONTO](#projeto-sistema-de-controle-de-ponto)
+  - [🚀 Tecnologias](#-tecnologias)
+  - [💻 Descrição do Projeto](#-descrição-do-projeto)
+  - [📁 Acesso ao projeto](#-acesso-ao-projeto)
+  - [✔️ Técnicas e tecnologias utilizadas](#️-técnicas-e-tecnologias-utilizadas)
+  - [📸 Telas](#-telas)
+  - [Me siga nas redes sociais:](#me-siga-nas-redes-sociais)
+    - [Feito com 💜 by Thamyres Cavalcante.](#feito-com--by-thamyres-cavalcante)
+
+
+
+![](geral/Capa.jpg)
 
 # PROJETO SISTEMA DE CONTROLE DE PONTO 
 
@@ -21,10 +34,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Spring
 - MySQL
 - Rest API
+- Postman
 - Git e Github
 
 
-## 💻 Projeto
+## 💻 Descrição do Projeto
 
 Projeto desenvolvido durante a live da DIO, ultilizando java, spring, MySQL e a IDE Intellij. O projeto consiste em criar um sistema de controle de ponto, desenvolvendo um CRUD. 
 
@@ -42,8 +56,35 @@ Neste repositório você tem acesso a todo o material desenvolvido.
 
 <br>
 
+## 📸 Telas
+**Cadastro de Jornada de Trabalho**
+<img width="70%" height="300" src="./geral/Cadastrar.png"></img>
 
-Me siga nas redes sociais:
+**Alteração de Jornada de Trabalho**
+<img width="70%" height="300" src="./geral/Alterar.png"></img>
+
+**Lista por ID Jornada de Trabalho**
+<img width="70%" height="300" src="./geral/ListarPorID.png"></img>
+
+**Lista todas Jornada de Trabalho**
+<img width="70%" height="300" src="./geral/ListarTudo.png"></img>
+
+**Deletar Jornada de Trabalho**
+<img width="70%" height="300" src="./geral/Deletar.png"></img>
+
+**Banco de Dados**
+<img width="70%" height="300" src="./geral/BD.png"></img>
+
+**CRUD**
+<img width="100%" height="300" src="./geral/Sistema_Controle_Ponto.gif"></img>
+
+<video width="100%" height="300" controls>
+  <source src="./geral/Sistema_Controle_Ponto.mp4" type="video/mp4">
+</video>
+
+<br>
+
+## Me siga nas redes sociais:
 - [Linkedin](https://www.linkedin.com/in/thamyrescavalcante/)
 - [Instagran](https://www.instagram.com/thamyres__cavalcante/)
 
@@ -51,4 +92,4 @@ Me siga nas redes sociais:
 
 ---
 
-Feito com ♥ by Thamyres Cavalcante.
+### Feito com 💜 by Thamyres Cavalcante.
