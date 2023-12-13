@@ -40,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Descrição do Projeto
 
-Projeto desenvolvido durante a live da DIO, ultilizando java, spring, MySQL e a IDE Intellij. O projeto consiste em criar um sistema de controle de ponto, desenvolvendo um CRUD. 
+Projeto desenvolvido durante a live da DIO, utilizando java, spring, MySQL e a IDE Intellij. O projeto consiste em criar um sistema de controle de ponto, desenvolvendo um CRUD. 
 
 
 ## 📁 Acesso ao projeto
